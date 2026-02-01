@@ -10,6 +10,35 @@
   <strong>United Nations Development Programme (UNDP)</strong>
 </p>
 
+## Technology Stack
+
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="60" style="margin: 10px;"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="60" style="margin: 10px;"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="60" style="margin: 10px;"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/pyngrok/pyngrok/main/docs/static/img/pyngrok-logo.png" alt="PyNgrok" width="60" style="margin: 10px;"/>
+</p>
+
+### Core Libraries
+- **Streamlit**: Web application framework
+- **NumPy**: Numerical computations
+- **Math**: Mathematical functions
+- **Collections**: Data structures (Counter, defaultdict)
+- **OS**: System operations
+- **Time**: Timing utilities
+- **Threading**: Concurrent execution
+
+### External Services
+- **PyNgrok**: Secure tunneling to localhost
+- **OpenAI API**: LLM integration (future)
+- **Google Generative AI**: Alternative LLM provider (future)
+
+### Development Tools
+- **Python 3.8+**: Programming language
+- **Jupyter Notebook**: Development environment
+- **Google Colab**: Cloud execution platform
+
 ## Overview
 
 This project implements an Advanced Retrieval-Augmented Generation (RAG) System developed as part of a UNDP initiative. The system combines traditional information retrieval techniques with modern language models to provide accurate, context-aware responses to user queries based on uploaded documents.
@@ -67,27 +96,6 @@ Our Advanced RAG system goes beyond basic implementations by incorporating:
 - **Cloud Deployment**: Ngrok tunneling for public access
 - **Multi-format Support**: Handles TXT, MD, CSV files
 - **Real-time Processing**: Instant results with progress indicators
-
-## Technology Stack
-
-### Core Libraries
-- **Streamlit**: Web application framework
-- **NumPy**: Numerical computations
-- **Math**: Mathematical functions
-- **Collections**: Data structures (Counter, defaultdict)
-- **OS**: System operations
-- **Time**: Timing utilities
-- **Threading**: Concurrent execution
-
-### External Services
-- **PyNgrok**: Secure tunneling to localhost
-- **OpenAI API**: LLM integration (future)
-- **Google Generative AI**: Alternative LLM provider (future)
-
-### Development Tools
-- **Python 3.8+**: Programming language
-- **Jupyter Notebook**: Development environment
-- **Google Colab**: Cloud execution platform
 
 ## Installation
 

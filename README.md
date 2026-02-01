@@ -4,10 +4,11 @@
 
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="150" style="margin: 20px;"/>
-  <img src="<img width="1091" height="638" alt="image" src="https://github.com/user-attachments/assets/b38ebae7-0f4c-41c2-89df-247e5a810a47" /> alt="Streamlit" width="180" style="margin: 20px;"/>
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="100" style="margin: 20px;"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100" style="margin: 20px;"/>
-  <img src="https://raw.githubusercontent.com/pyngrok/pyngrok/main/docs/static/img/pyngrok-logo.png" alt="PyNgrok" width="100" style="margin: 20px;"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="180" style="margin: 20px;"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="150" style="margin: 20px;"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="120" style="margin: 20px;"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="120" style="margin: 20px;"/>
+  <img src="https://raw.githubusercontent.com/pyngrok/pyngrok/main/docs/static/img/pyngrok-logo.png" alt="PyNgrok" width="120" style="margin: 20px;"/>
 </p>
 
 ### Core Libraries
@@ -18,16 +19,35 @@
 - **OS**: System operations
 - **Time**: Timing utilities
 - **Threading**: Concurrent execution
+- **Hugging Face Transformers**: For LLM integration and model usage
 
 ### External Services
 - **PyNgrok**: Secure tunneling to localhost
 - **OpenAI API**: LLM integration (future)
 - **Google Generative AI**: Alternative LLM provider (future)
+- **Hugging Face Hub**: Access to pre-trained models
 
 ### Development Tools
 - **Python 3.8+**: Programming language
 - **Jupyter Notebook**: Development environment
 - **Google Colab**: Cloud execution platform
+
+## Demo Screenshots
+
+### Lab 1: Token Estimator
+<p align="center">
+  <img width="800" alt="Lab 1 Screenshot" src="./img/WhatsApp Image 2026-02-01 at 20.59.07.jpeg" />
+</p>
+
+### Lab 2A: Simple RAG System
+<p align="center">
+  <img width="800" alt="Lab 2A Screenshot" src="./img/WhatsApp Image 2026-02-01 at 20.59.26.jpeg" />
+</p>
+
+### Lab 2B: Advanced RAG with LLM
+<p align="center">
+  <img width="800" alt="Lab 2B Screenshot" src="./img/WhatsApp Image 2026-02-01 at 20.59.38.jpeg" />
+</p>
 
 ## Overview
 

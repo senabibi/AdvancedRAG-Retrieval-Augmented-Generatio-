@@ -8,7 +8,7 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="150" style="margin: 20px;"/>
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="120" style="margin: 20px;"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="120" style="margin: 20px;"/>
-  <img src="https://raw.githubusercontent.com/pyngrok/pyngrok/main/docs/static/img/pyngrok-logo.png" alt="PyNgrok" width="120" style="margin: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/afb74c38-5f66-478f-9ef5-6a6c1a678586" alt="PyNgrok" width="120" style="margin: 20px;"/>
 </p>
 
 ### Core Libraries

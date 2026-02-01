@@ -1,23 +1,13 @@
 # Advanced RAG System for UNDP
 
-<p align="center">
-  <img src="https://www.undp.org/sites/g/files/zskgke326/files/2023-03/UNDP_Logo_Blue_RGB.png" alt="UNDP Logo" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://www.undp.org/sites/g/files/zskgke326/files/2023-03/UNDP_Logo_Blue_RGB.png" alt="UNDP Logo" width="100"/>
-  <br>
-  <strong>United Nations Development Programme (UNDP)</strong>
-</p>
-
 ## Technology Stack
 
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="60" style="margin: 10px;"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="60" style="margin: 10px;"/>
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="60" style="margin: 10px;"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/pyngrok/pyngrok/main/docs/static/img/pyngrok-logo.png" alt="PyNgrok" width="60" style="margin: 10px;"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="150" style="margin: 20px;"/>
+  <img src="<img width="1091" height="638" alt="image" src="https://github.com/user-attachments/assets/b38ebae7-0f4c-41c2-89df-247e5a810a47" /> alt="Streamlit" width="180" style="margin: 20px;"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="100" style="margin: 20px;"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="100" style="margin: 20px;"/>
+  <img src="https://raw.githubusercontent.com/pyngrok/pyngrok/main/docs/static/img/pyngrok-logo.png" alt="PyNgrok" width="100" style="margin: 20px;"/>
 </p>
 
 ### Core Libraries
